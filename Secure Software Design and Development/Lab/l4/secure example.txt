@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string> // Include string library for std::string
+
+void readInput() {
+    std::string userInput; // Use std::string instead of a fixed-size array
+    std::cout << "Enter your input: ";
+    std::getline(std::cin, userInput); // Use getline() to read entire line
+    std::cout << "You entered: " << userInput << std::endl;
+}
+
+int main() {
+    readInput(); // Call the safe function
+    return 0;
+}

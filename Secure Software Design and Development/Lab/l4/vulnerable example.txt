@@ -1,0 +1,13 @@
+#include <iostream>
+
+void readInput() {
+    char buffer[10]; // Fixed-size buffer, vulnerable to overflow
+    std::cout << "Enter your input: ";
+    std::cin >> buffer; // Unsafe input operation
+    std::cout << "You entered: " << buffer << std::endl;
+}
+
+int main() {
+    readInput(); // Call the vulnerable function
+    return 0;
+}

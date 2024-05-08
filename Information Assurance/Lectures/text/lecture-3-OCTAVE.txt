@@ -1,0 +1,412 @@
+OCTAVE APPROACH
+
+What is OCTAVE
+
+
+Operationally Critical Threat, Asset, and Vulnerability Evaluation
+is a suite of tools, techniques, and methods for risk based
+information security strategic assessment and planning.
+
+
+
+The OCTAVE approach was developed by the Software
+Engineering Institute (SEI) at Carnegie Mellon University in 2001
+to address the information security compliance challenges
+faced by the US Government Departments.
+
+..contd
+
+
+The OCTAVE approach is a framework that enables
+organizations to understand, assess and address their
+information security risks from the organization's perspective
+
+
+
+OCTAVE is not a product, rather it is a process-driven
+methodology to identify, prioritize and manage information
+security risks
+
+
+
+OCTAVE is self directed, people from an organization assume
+responsibility for setting the organization’s security strategy.
+
+..contd
+
+
+Unlike typical technology focused assessment, which is targeted
+at technological risk and focus mainly on technical security
+issues, OCTAVE is focused on strategic and practical issues faced
+by the organization which encompass quite a lot more than
+technology.
+
+BUSINES
+S
+
+IT
+
+Organizational Needs
+
+
+So in Octave Business and IT work together to address the
+security needs of an organization balancing the three aspects of
+Operational Risk, Security Practices, and technology
+
+Benefits of OCTAVE
+
+
+Operational Risks and Security Practices drive OCTAVE
+
+
+
+Technology is examined only in relation to security practices in order to further refine them
+
+
+
+OCTAVE helps in making information protection decisions based on risks to CIA
+
+
+
+All aspects of risk (A,T,V,BI) are accounted for in decision making enabling an organization
+to match a practical protection strategy to its security risks
+
+OCTAVE
+
+Traditional Approaches
+
+Organizational Evaluation
+
+System Evaluation
+
+Focus on Security Practices
+
+Focus on Technology
+
+Strategic Issues
+
+Departmental Issues
+
+Self Direction
+
+Expert Led
+
+..contd
+
+
+OCTAVE is intended to help organizations
+
+Develop Risk Evaluation criteria based on Business Needs
+
+Identify assets that are critical to the mission of the organization
+
+Identify vulnerabilities and threats to the critical assets
+Determine and evaluate potential consequences to the organization if
+threats are realized
+Initiate corrective actions to mitigate risks and create practical protection
+strategy
+
+Characteristics of OCTAVE
+
+
+OCTAVE is an asset-driven evaluation approach
+◦
+
+Identify information-related assets (e.g., information and systems) that are
+important to the organization
+
+◦
+
+Focus risk analysis activities on those assets judged to be most critical to the
+organization
+
+◦
+
+Consider the relationship among critical assets, the threats to these assets, and
+vulnerabilities (both organizational and technical) that can expose assets to
+threats
+
+◦
+
+Evaluate risks in an operational context and see how assets are at risk due to
+security threats
+
+◦
+
+Create a practical protection strategy for organizational improvement as well as
+risk mitigation plans to reduce the risk to the organization’s critical assets
+
+OCTAVE Phase - I
+
+Build Asset-Based Threat Profiles
+• Critical assets
+• Security requirements for critical assets
+• Threats to critical assets
+• Current Security practices
+
+OCTAVE Phase - II
+
+Identify Infrastructure Vulnerabilities
+• Evaluation of the information infrastructure
+• Examine NW access levels and access mechanism
+• Assessing vulnerabilities associated with assets
+• Assess what type(s) of attacks can harm your critical assets
+• Identify the assets which are susceptible to these attacks
+
+OCTAVE Phase - III
+
+Develop Security Strategy and Plans
+• Risk to critical assets
+• Risk Measures
+• Protection strategy
+• Risk mitigation plans
+
+Workshops
+
+
+In applying the three phase approach, a progressive series of workshops are
+required within the organization. These workshops requires comprehensive
+interaction among the participants.
+
+
+
+There are two types of workshops
+◦
+◦
+
+
+
+The team leader is responsible for
+◦
+◦
+◦
+
+
+
+Facilitated discussions with various members of organization
+Activities conducted by the analysis team on its own
+
+Guiding all workshop activities and ensuring timely completion.
+Ensuring all participants understand their roles
+Selecting a decision-making approach (e.g. consensus, majority vote) during the workshops
+
+Every phases might have a different leader.
+◦
+◦
+
+Person with strong communication and interview skills can lead the 1st phase
+Person with strong planning and analysis skills can lead phase 3.
+
+Octave Processes
+
+
+Octave method is broken into eight processes. Four in phase 1,
+two in phase 2, two in phase 3.
+
+Preparation
+Getting Senior Management Sponsorship
+• Top success factor in IS risk evaluations
+• If senior management does not support, staff support will dissipate quickly
+
+Selecting Analysis Team
+• The team should have necessary skills and training to lead evaluation
+• They should know how to apply their knowledge when required
+
+Setting Appropriate Scope
+• Mention important areas
+• Scope should be limited initially but not to small
+
+Selecting Participants
+• Don’t call and engage who’s available, people should be part of analysis team and workshop
+due to their knowledge
+
+Phase 1: Build Asset Based Threat Profiles
+
+
+In phase-1 you begin to build the organizational view of OCTAVE
+by focusing on the people in the organization .
+1: Identify Senior Management knowledge
+• SM’s view of assets
+• Areas of concern
+• Security Requirements
+• Current Security Practices
+• Current Organizational Vulnerabilities
+
+2: Identify Operational Area management Knowledge
+• OA’s management view of assets
+• Areas of concern
+• Security Requirements
+• Current Security Practices
+• Current Organizational Vulnerabilities
+
+3: Identify Staff Knowledge
+• Staff’s view of assets
+• Areas of concern
+• Security Requirements
+• Current Security Practices
+• Current Organizational Vulnerabilities
+
+4: Create Threat Profile
+• Critical Assets
+• Security Requirements for critical assets
+• Threats to critical Assets
+
+Process 1-3
+
+
+The analysis team facilitates knowledge oriented workshops during
+process 1-3
+
+
+
+Participants from across the organization contribute their unique
+perspective about what is important to the organization (assets) and
+how well those assets are being protected
+
+
+
+Senior managers are the audience in process 1, middle managers in 2
+and technical staff in process 3.
+
+
+
+So far four activities are undertaken
+◦
+◦
+◦
+◦
+
+Identification of assets and relative priorities
+Identify areas of concern
+Identify security requirements for most important assets
+Capture knowledge of current security practices and organizational vulnerabilities
+
+Process 4: Create Threat Profile
+
+
+Participants in this process are analysis team members. During
+process 4, the team identifies the assets that are most critical
+and describes how these assets are threatened.
+
+
+
+Process 4 comprises of
+◦
+◦
+◦
+◦
+
+Consolidating information from processes 1 to 3
+Selecting critical assets
+Refining security requirements for critical assets
+Identifying threats to critical assets
+
+Threat Profile
+
+
+A threat profile is a structured way of presenting a range of
+threats to a critical asset.
+
+
+
+In the OCTAVE Method, threats are represented in the profile
+using the following
+◦ Asset— something of value to the enterprise
+◦ Actor— who or what may violate the security requirements (confidentiality,
+integrity, availability) of an asset
+◦ Motive (or objective)— whether the actor's intentions are deliberate or
+accidental (applies only to human actors)
+◦ Access— how the asset will be accessed by the actor, e.g., network access,
+physical access (applies only to human actors)
+◦ Outcome— the immediate outcome (disclosure, modification, destruction,
+loss, interruption) of violating the security requirements of an asset
+
+Asset-Based Threat
+Tree for Human
+Actors Using
+Network Access
+
+Phase II: Identify Infrastructure Vulnerabilities
+5. Identify Key Components
+• Upon completion of process 4 you identified your organization's critical assets
+and examined the threats to those assets. In process 5 you use this information
+to determine how to evaluate your organization's computing infrastructure for
+technology vulnerabilities
+• You need to focus on the vulnerability evaluation to complete it in an efficient and
+effective manner
+• To understand your risk, you need to collect vulnerability information only on key
+components relative to the critical assets. Process 5 enables you to identify those
+key components.
+• It comprises of two activities
+• Identifying key classes of components
+• Identifying infrastructure components to be examined
+
+Technology Vulnerabilities
+
+
+Ultimately, your goal during phase 2 of OCTAVE is to identify technological
+weaknesses in the computing infrastructure
+
+
+
+Technology vulnerabilities are weaknesses in systems, devices, and components
+that can directly lead to unauthorized action
+
+
+
+Technology vulnerabilities are present in and apply to network services,
+architecture, operating systems, and applications
+
+
+
+Three types of vulnerabilities
+◦ Design Vulnerability
+◦ Implementation Vulnerability
+◦ Configuration Vulnerability
+
+6. Evaluate Selected Components
+• Participants in this process are the analysis team and selected
+members of the IT staff
+• Ultimate objective of process 6 is to identify technological weaknesses
+in the infrastructure components that were identifies during process 5.
+• It comprises of two activities
+• Running vulnerability analysis tools on selected infrastructure
+components
+• Reviewing technology vulnerabilities and summarizing results
+
+Phase III: Develop Security Strategy and
+Plans
+
+
+This phase is designed to make sense of information you have
+gathered so far in the evaluation.
+
+
+
+It is during this phase that you develop security strategies and plans
+designed to address your organization’s unique risks and issues
+
+7. Conduct Risk Analysis
+• Participants in this process are the analysis team members
+• Goal of process 7 is to identify and analyze risks to the organization’s
+critical assets
+• It comprises of three activities
+• Identifying impact of threats to critical assets
+• Creating Risk evaluation criteria
+• Evaluating the impact of threats to critical assets
+
+8. Develop Protection Strategy
+
+• This process includes two workshops
+• Participants in first workshop for process 8 are the analysis team
+members and selected members of the organization (ISMF)
+• The goal of process 8 is to develop a protection strategy for the
+organization, mitigation plans for the risks to the critical assets and an
+action list of future actions.
+• In the second workshop, the analysis team presents the proposed
+protection strategy, mitigation plans, and action list to senior managers
+in the organization.
+• The senior managers review and revise the strategy and plans as
+necessary and decide how to move on
+
+
