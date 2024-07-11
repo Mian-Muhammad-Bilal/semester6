@@ -1,0 +1,44 @@
+Asset
+Customer Database
+Production Servers
+Customer Database Backup Systems
+Intellectual Property
+Financial Records
+Operational Systems
+Customer Service Portal
+Research & Development Data
+Actor
+External Hackers
+Insider (Employee)
+Compromised Vendor
+Competitor
+Insider (Employee)
+External Threat Actors
+Insider (Employee)
+Competitor
+Motive
+Financial Gain
+Revenge
+Data Theft
+Industrial Espionage
+Fraudulent Intentions
+Sabotage
+Data Theft
+Intellectual Property Theft
+Access
+Network
+Physical Access Software
+Physical Access
+Outcome
+Disclosure, Loss, Modification
+Destruction, Interruption
+Disclosure, Loss, Modification
+Theft
+Network Access
+Network
+Physical Access
+Disclosure, Unauthorized Access
+Network
+Loss, Modification
+Unauthorized Access, Theft
+Interruption, Loss

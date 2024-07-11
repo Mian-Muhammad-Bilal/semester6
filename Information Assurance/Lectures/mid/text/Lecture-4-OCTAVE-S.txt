@@ -1,0 +1,205 @@
+OCTAVE-S
+Nosheen Manzoor
+
+Small Organizations
+• Most approaches for evaluating information security risks that we have
+seen generally focus on the needs of large organizations
+• A pragmatic approach designed for small organizations does not exist
+today, and most small organizations cannot afford the cost of outsourcing
+this function to external parties
+• The intent is to provide those organizations with an efficient, inexpensive
+approach to begin identifying and managing their information security
+risks, enabling them to improve their security posture
+
+Different Organizational Characteristics
+• When the OCTAVE method was developed, different people from many
+types of organizations were consulted in order to understand their
+requirements as potential users of the method.
+• But the developed approach most of the times does not suit smaller
+organizations and becomes inconsistent with the way such companies
+implement their business processes
+• The requirements for implementing OCTAVE in small organizations are
+driven by the following organizational characteristics
+– Structure of Small organizations
+– Lack of Competency
+– Scarce Resources
+
+..contd
+• Structure of Small Organizations
+– Small organizations typically have a flat, nonhierarchical organizational structure for
+example, a 100-person company that has a single location might be able to assemble a
+team of 5 people that has sufficient insight into the entire organization
+
+• Lack of Competency
+– Lack of core competency in information technology management, including secure
+systems and network management. Small organizations often outsource management of
+their computing infrastructures
+
+• Scarce Resources
+– Very small organizations are typically quite lean and have limited staff time available for
+security improvement initiatives
+
+• Although these characteristics are typical of small organizations, There are
+organizations with fewer than 100 employees that are very hierarchical,
+manage their computing infrastructures, and implement process
+improvement efforts
+• Likewise, we have seen instances of organizations with more than 100
+employees that have a flat organizational structure, outsource
+management of their computing infrastructures, and do not have staff
+available for process improvement activities
+• There is no absolute definition of a small organization. The approach being
+used here addresses the "typical" small organization that is nonhierarchical,
+outsources management of its computing infrastructures, and has very
+limited staff time to conduct OCTAVE
+
+Structure
+•
+
+Think of information security as trying to solve a puzzle. In large, hierarchical
+organizations, people can become very specialized in their job duties. Their
+understanding of the big picture related to the organization's business processes often
+becomes very narrow. Thus, each person in such an organization holds one piece of
+the information security puzzle.
+
+•
+
+By contrast, in small, nonhierarchical organizations people often acquire a range of
+skills and perform a variety of tasks. Each person in such an organization has greater
+insight into business processes and holds many pieces of the information security
+puzzle
+
+•
+
+In hierarchical organizations the evaluation process requires a series of knowledge
+elicitation workshops to build the big picture of security in the organization, with each
+person contributing his or her piece of the puzzle. In nonhierarchical organizations,
+only one workshop may be needed to build the global view of security, because
+analysis team members bring most of the puzzle with them.
+
+Outsourcing
+•
+
+Consider an organization whose management decides to build a core
+competency in information technology management. Managers will likely hire
+people with information technology backgrounds and provide educational
+opportunities for them to keep their skills up to date with current technology
+trends. People within the organization have the knowledge and skills to lead
+the technological aspects of an information security risk evaluation.
+
+•
+
+Now consider an organization whose management decides to outsource
+information technology management. Contractors or managed service
+providers maintain the organization's systems and networks. In essence the
+organization has transferred responsibility for managing its computing
+infrastructure to contractors and service providers. People within the
+organization do not have the knowledge and skills to lead or interpret the
+technological aspects of an information security risk evaluation
+
+Scarce Resources
+• Consider a large organization that has implemented many process
+improvement initiatives using a quality assurance department for
+oversight and guidance. The OCTAVE Method is probably a good fit for
+that organization. Personnel in the quality assurance department can
+become core analysis team members and lead the evaluation in the
+organization.
+• Now consider a small organization with only 40 employees. It does not
+have a quality assurance department and may not be experienced in
+implementing process improvement initiatives. This organization needs an
+evaluation process that doesn't take too much time and still provides
+sufficient information for the organization to characterize its risks.
+
+OCTAVE for Smaller Organizations
+• A version of OCTAVE tailored for the typical small organization will have
+the following features:
+– It will not require a series of knowledge elicitation workshops, because the analysis team
+has sufficient insight into the organization's operational environment
+– It will enable people without an information technology background to record their
+requirements for a technology vulnerability evaluation, which can then be
+communicated to the organization's contractors or service providers
+– It will be designed for efficient data collection, enabling the analysis team to characterize
+risks in a timely manner
+
+Four Processes
+
+PROCESS-1
+
+PROCESS-2
+
+PROCESS-4
+
+PROCESS-4
+
+• Identify
+organizational
+Information
+
+• Build asset
+based threat
+profile
+
+• Identify
+infrastructure
+vulnerabilities
+
+• Develop
+protection
+strategy and
+mitigation
+plans
+
+Should you use OCTAVE-S?
+•
+
+The following set of questions should be used to help determine the applicability of OCTAVES to your organization
+–
+
+Is your organization small? Does it have a flat or simple hierarchical structure?
+
+–
+
+Can you find a group of three to five people for the analysis team who have a broad and deep understanding
+of the company and also possess most of the following skills?
+•
+•
+•
+•
+•
+
+problem-solving ability
+analytical ability
+ability to work in a team
+at least one member with leadership skills
+ability to spend a few days working on this method
+
+–
+
+Do you outsource all or most of your information technology functions?
+
+–
+
+Do you have a relatively simple information technology infrastructure that is well understood by at least one
+individual in your organization.
+
+–
+
+Do you have limited familiarity with vulnerability evaluation tools within the context of information-related
+assets or are you unable to obtain the use of this expertise from current service provider to interpret results?
+
+• If you can answer YES to all these questions, OCTAVE-S should work for
+you
+• A majority of YES answers imply that it will probably work for you, but
+caution is advised
+• While OCTAVE-S may still be useful outside of these boundaries, the
+results cannot be guaranteed
+
+Words of Caution
+• Some people might consider using OCTAVE-S within individual projects,
+lines of business, or departments, subsequently integrating the results to
+get the organization-wide perspective.
+• Theoretically, using OCTAVE-S in this manner could work; however, there is
+no data/information to support this theory nor any guidance about what
+the “integration” process might require.
+• So this approach is always discouraged.
+
+

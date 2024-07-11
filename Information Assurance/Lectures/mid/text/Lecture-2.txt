@@ -1,0 +1,672 @@
+Lecture - 2
+
+Introduction
+• In reality, organizations have many other things to do than
+practice security. Businesses exists to make money
+• No organization specifically deploys and maintain firewalls,
+intrusion detection systems, identity management
+technologies, and encryption devices
+• No business really wants to develop hundreds of security
+policies, deploy antimalware products, maintain vulnerability
+management systems, constantly update their incident
+response capabilities, and have to comply with the alphabet
+soup of security regulations
+
+What is Needed?
+• But these simpler days are long gone. Now organizations are
+faced with attackers who want to steal businesses’ customer
+data to carry out identity theft and banking fraud
+• Company secrets are commonly being stolen by internal and
+external entities for economic espionage purposes. Systems
+are being hijacked and being used within botnets to attack
+other organizations or to spread spam
+• Each organization must develop an enterprise- wide security
+program that consists of technologies, procedures, and
+processes
+
+Security Triad
+
+Availability
+• Ensuring the availability of the necessary resources within an
+organization sounds easier to accomplish than it really is
+• Networks have so many pieces that must stay up and running (routers,
+switches, DNS servers, DHCP servers, proxies, firewalls).Software has
+many components that must be executing in a healthy manner (operating
+system, applications, antimalware software)
+• There are environmental aspects that can negatively affect an
+organization’s operations (fire, flood, electrical problems), potential
+natural disasters, and physical theft or attacks
+• An organization must fully understand its operational environment and
+its availability weaknesses so that the proper countermeasures can be
+put into place.
+
+Integrity
+• Environments that enforce and provide this attribute of
+security ensure that attackers, or mistakes by users, do not
+compromise the integrity of systems or data
+• When an attacker inserts a virus, logic bomb, or back door into
+a system, the system’s integrity is compromised
+• Users usually affect a system or its data’s integrity by mistake.
+For example, users with a full hard drive may delete config
+files under the mistaken assumption that deleting a boot.ini
+file is okay.
+
+Confidentiality
+• Confidentiality can be compromised by a variety of means
+from shoulder surfing to social engineering.
+• Users can intentionally or accidentally disclose sensitive
+information by not encrypting it before sending it to another
+person, by falling prey to a social engineering attack, by
+sharing a company’s trade secrets, or by not using extra care
+to protect confidential information when processing it.
+
+Balanced Security
+• In reality, when information security is dealt with, it is commonly
+only through the lens of keeping secrets secret (confidentiality).
+• The integrity and availability threats can be overlooked and only
+dealt with after they are properly compromised
+• Some assets have a critical confidentiality requirement (company
+trade secrets), some have critical integrity requirements (financial
+transaction values), and some have critical availability requirements
+(e-commerce web servers)
+• Many people understand the concepts of the AIC triad, but may not
+fully appreciate the complexity of implementing the necessary
+controls to provide all the protection these concepts cover
+
+Business Objectives
+• What is the Business Objective of an organization ?
+
+To Deliver ABC services to Corporate or normal Clients and
+achieve an annual turnover of XYZ million Rs/$ at a profit
+of ABC%
+
+An Organization..
+Organizational Objectives
+
+Conducive Working Environment
+External & Internal Factors
+
+Events, Activities or
+circumstances that
+can affect an
+organization and
+achievement of
+business objectives
+
+Smooth Processes/ Operations
+and Stability of Related Resources
+Operational Risks
+
+11
+
+Operational Risks
+Management Information Risk
+• Inadequate, inaccurate, incomplete or untimely provision of information to
+support the management decision making process
+
+Facilities and Operating Environment Risk
+• Loss or damage to operational capabilities caused by problems with
+premises, facilities, services or equipment
+
+Legal and Regulatory Compliance Risk
+• Failure to comply with the laws of the country/state/region
+
+Technology Risks
+• Failure to plan, manage and monitor the performance of technology
+related projects, products, services, processes and delivery channels
+
+Criminal and Illicit Act Risk:
+• Loss or damage caused by fraud, theft, willful neglect, gross negligence,
+vandalism, sabotage, extortion etc.
+
+Supplier Risk
+• Failure to evaluate adequately the capabilities of suppliers leading to
+breakdown in the supply process or substandard delivery of supplied goods
+and services
+
+Climate and Environmental Risk
+• Loss or damage caused by unusual climate conditions including natural
+disasters like flood, storm etc.
+
+Issues Generate Risks
+Which issues can give rise to the above risks?
+OR
+Which issues damage or disrupt our operations, business
+process and/or related resources?
+
+Departmental
+Issues
+
+Information Security is just related to the IT department and IT
+security is termed as Information Security and only the IT Head
+is considered responsible for this.
+Lack of policies and procedures for handling different type of
+information and data including sensitive data resulting in
+leakage of sensitive/critical information.
+Unauthorized use of laptops. Company's sensitive information
+traveling on the laptops without any protection.
+Open use of USBs, Wi-Fi, CDs, Bluetooth or other means for
+sharing the information
+No Inventory of Information Asset and their owners
+(responsible) are not identified
+
+Departmental
+Issues
+
+No Security Incident Reporting and Management mechanism
+
+Open use of public wireless networks by company top officials
+Classified/important documents placed/stored
+unspecified location or open cabinets/draws
+Rooms of top managers left open
+
+Visitors roaming around within the office premises
+
+at
+
+an
+
+Personal
+Issues
+
+Open verbal communication about official matters
+Lack of awareness among the staff regarding the seriousness
+and gravity related to the information
+Lack of disciplinary actions policies for the personnel involved in
+a security breach
+Documents / information lying open on the tables or screens or
+systems / PCs left unattended
+Passwords are shared with friends / colleagues
+No policy for the screening of the staff and non existence of the
+confidentiality agreement
+
+Personal
+Issues
+
+Contract with personnel and external parties are without any
+liabilities/penalties in case of breach of company's security
+Excessive unauthorized use of telephone/Mobile phone/SMS/email by
+the staff
+
+Excessive guests arrivals of the staff within office premises
+
+Staff not reporting the security incidents
+
+Staff not having the awareness about “which situation to call a
+security incident”
+
+IT Issues
+
+Server down
+Network / VPN Link down / connectivity issues
+DB / Application / OS failure
+
+IT security measures / controls are based upon the IT
+Manager / vendor recommendations
+No Standard Operating Procedures (SOPs) for the IT activities
+and services
+Password management
+
+IT Issues
+
+Non existence of the Networks, OS, applications and database
+access policies especially within IT personnel
+No policy/mechanism for the network and database
+Storage Medium disposal policies?
+Lack of formal backup policies and their periodical testing for
+retrieval
+Lack of review of the different system/admin and IT logs
+No policies for periodic review of the ”User Access Rights‘ to
+different application, databases and utilities
+
+External /Third
+Party Issues External/third parties Contracts without proper documentation leading
+to mishaps and mishandling of information from their end
+
+Critical Third parties and related risks are not identified and evaluated
+
+Contracts without response time from critical third parties
+
+Information leakage by the suppliers and the third/external
+parties
+
+External /Third
+Party Issues
+No concept of Service Level Agreements or SLA. If exist then
+without any monitoring mechanism
+
+No alternate arrangements with the supplier in case of the
+disruption in its services
+
+No mechanism to provide awareness to the third party
+regarding company security policies
+
+Contract with personnel and external parties are without any
+penalties in case of breach of company's security
+
+Asset
+Property of a person or a company
+
+• Information is an asset which, like other important business assets,
+has value to an organization and consequently needs to be Suitably
+protected (ISO 27001)
+• Information/Data asset
+• Technology Asset
+• Personnel Asset
+• Service(s) Asset
+• Every asset will have an asset owner
+
+Asset Inventory
+• All the information assets of these departments should be identified
+and documented
+
+Suitability
+• What is Suitable for one organization might not be ”suitable‘ for
+other organization and vice versa
+For e.g. what is suitable for a
+• State Bank of Pakistan
+might not be suitable for
+• Karachi Stock Exchange
+
+Types of Information
+• Printed or written on paper
+• Stored electronically
+• Transmitted by post or using electronic means
+• Shown on corporate videos
+• Verbal or spoken in conversations
+• Backed up Information
+• Company publications, newsletters etc.
+• Employee records
+
+Organizational Objectives
+
+Conducive Working Environment
+External & Internal Factors
+
+COMPROMISE THE
+CIA
+OF CRITICAL /
+INFORMATION
+ASSETS
+
+Smooth Processes/ Operations
+and Stability of Related Resources
+Operational Risks
+
+CONTROLS
+ISMS Implementation
+
+27
+
+Security Controls
+• After studying the AIC triad and understanding the concept of
+vulnerability, exploit, threat and risk, we move on to studying
+controls which help safeguard the information of any
+organization.
+• Controls are put into place to reduce the risk an organization
+faces, and they come in three main flavors:
+• Administrative
+• Technical
+• Physical
+
+Administrative Controls
+• Administrative controls are commonly referred to as “soft
+controls” because they are more management-oriented.
+Examples of administrative controls are security
+documentation, risk management, personnel security, and
+training
+• Technical controls (also called logical controls) are software or
+hardware components, as in firewalls, IDS, encryption,
+identification and authentication mechanisms
+• Physical controls are items put into place to protect facility,
+personnel, and resources. Examples of physical controls are
+security guards, locks, fencing, and lighting
+
+Defense in Depth
+• These control types need to be put into place to provide
+defense-in-depth, which is the coordinated use of multiple
+security controls in a layered approach
+• A multilayered defense system minimizes the probability of
+successful penetration and compromise because an attacker
+would have to get through several different types of
+protection mechanisms before she gained access to the critical
+assets
+
+..contd
+
+Controls Categorized
+• So the different categories of controls that can be used are
+administrative, technical, and physical. But what do these controls
+actually do for us?
+• We need to understand the different functionality that each control
+type can provide us in our quest to secure our environments.
+• The different functionalities of security controls are preventive,
+detective, corrective, deterrent, recovery, and compensating
+• By having a better understanding of the different control
+functionalities, you will be able to make more informed decisions
+about what controls will be best used in specific situations
+
+..contd
+• Deterrent Intended to discourage a potential attacker
+• Preventive Intended to avoid an incident from occurring
+• Corrective Fixes components or systems after an incident has
+occurred
+• Recovery Intended to bring the environment back to regular
+operations
+• Detective Helps identify an incident’s activities and potentially
+an intruder
+
+..contd
+• When looking at a security structure of an environment, it is
+most productive to use a preventive model and then use
+detective, recovery, and corrective mechanisms to help
+support this model.
+• Basically, you want to stop any trouble before it starts, but you
+must be able to quickly react and combat trouble if it does
+find you.
+• It is not feasible to prevent everything; therefore, what you
+cannot prevent, you should be able to quickly detect
+
+Preventive Controls : Admin
+• Policies and procedures
+• Effective hiring practices
+• Pre-employment background checks
+• Controlled termination processes
+• Data classification and labeling
+• Security awareness
+
+Preventive Controls : Physical
+• Badges, swipe cards
+• Guards, dogs
+• Fences, locks, mantraps
+
+Preventive Controls : Technical
+• Passwords, biometrics, smart cards
+• Encryption, secure protocols, call-back systems, database
+views, constrained user interfaces
+• Antimalware software, access control lists, firewalls, intrusion
+prevention system
+
+Examples
+• A firewall tries to prevent something bad from taking place, so
+it is a preventative control.
+• Auditing logs is done after an event took place, so it is
+detective
+• A data backup system is developed so that data can be
+recovered; thus, this is a recovery control
+• Computer images are created so that if software gets
+corrupted, they can be loaded; thus, this is a corrective
+control.
+
+Compensating Control
+• Controls that provide an alternative measure of control
+• If your company needed to implement strong physical security, you
+might suggest to management that security guards are employed. But
+after calculating all the costs of security guards, your company might
+decide to use a compensating (alternate) control that provides similar
+protection but is more affordable—as in a fence
+• you are a security administrator and you are in charge of maintaining
+the company’s firewalls. Management tells you that a certain protocol
+that you know is vulnerable to exploitation has to be allowed through
+the firewall for business reasons. The network needs to be protected
+by a compensating (alternate) control pertaining to this protocol,
+which may be setting up a proxy server for that specific traffic type to
+ensure that it is properly inspected and controlled
+
+Control Effectiveness
+• Effectiveness measures whether the Control provides an
+acceptable level of risk mitigation to the organization.
+• A Control may exist (for example, the organization maintains a
+Policy requirement that all employees must change their
+password every 30 days), but its value is diminished it it is not
+properly implemented (few employees are aware of the
+requirement and there is manageable evidence passwords are
+not being changed).
+
+Control Efficiency
+• Efficiency measures the cost of maintaining the Control
+compared to the potential loss if the Control were to fail. This
+is a cost/benefit analysis where Controls are ideally structured
+to yield a positive return on investment.
+
+Control Scope
+• In order to measure the effect from a Control failure, you need
+to correlate the Scope of the Control (does the Control
+mitigate the Risk from the loss of Confidentiality, Integrity or
+Availability) with the Impact of the process (how important is
+a loss of Confidentiality, Integrity or Availability to the process)
+• If a Control addresses a loss of Availability, but under Impact
+Availability is rated as a low risk element, the overall risk from
+the failure of the Control is likely Low
+• Conversely, if the Impact assessment rated Availability as a
+high risk area, then the failure of the Availability Control would
+have a significant effect on the organization
+
+Control Complexity
+• How difficult is it to exploit the Control?
+• Does the exploit require significant resources (i.e. experience,
+training, money, technology, planning etc.)
+• In effect, the greater the complexity involved in breaking the
+Control, the less likely the Control will be exploited.
+
+Control Access
+• What level of access to the control is required for an exploit to
+be successful?
+• Is the Control freely accessible on the Internet or is the Control
+protected within a guarded data center?
+• How many people (potential Threats) could access the Control
+with the resources reasonable available to them?
+
+Control Priviledge
+• Assuming the Threat can overcome the challenges of
+Complexity and Access, what level of Privilege will the Threat
+receive?
+• For example, a hacker (the Threat) may be able to run a script
+(an exploit) to gain access to an Internet site
+• The severity of the exploit would vary greatly based on the
+level of authority or privilege that the hacker would gain. If the
+exploit only allows the Hacker to run reports on the system, it
+would have a lower severity than if the exploit gave the Hacker
+system administrator access with the power to change or
+delete code, monitor user activity, etc.
+
+• Backup Data Restoral:
+• Corrective
+
+• Anti-Virus:
+• Detective, Preventive
+• IPS:
+• Preventive
+• OS Upgrade:
+• Corrective
+• Security Awareness Training:
+• Preventive, Deterrent
+• Vulnerability Mitigation:
+• Corrective
+• IDS:
+• Detective
+
+• Encryption:
+• Preventive
+• Honeypots
+• Detective
+• BCP:
+• Corrective
+• Audit
+• Detective
+• Review of Performance
+• Detective
+• Biometrics:
+• Preventive
+• Security Guard/Fence
+• Deterrent, Preventive
+• Segregation of Duties
+• Preventive
+• Penetration testing
+• Preventive
+
+Security Through Obscurity
+• The concept of security through obscurity is assuming that your enemies
+are not as smart as you are and that they cannot figure out something
+that you feel is very tricky
+• A nontechnical example of security through obscurity is the old practice
+of putting a spare key under a doormat in case you are locked out of the
+house
+• You assume that no one knows about the spare key, and as long as they
+don’t, it can be considered secure.
+• The vulnerability here is that anyone could gain easy access to the house
+if they have access to that hidden spare key, and the experienced attacker
+(in this example, a burglar) knows that these kinds of vulnerabilities exist
+and takes the appropriate steps to seek them out
+
+STO : Examples
+• Some vendors work on the premise that since their product’s
+code is compiled this provides more protection than products
+based upon open-source code because no one can view their
+original programming instructions.
+• But attackers have a wide range of reverse-engineering tools
+available to them to reconstruct the product’s original code,
+and there are other ways to figure out how to exploit software
+without reverse-engineering it, as in fuzzing, data validation
+inputs, etc.
+
+STO : Examples
+• Another common example of practicing security through
+obscurity is to develop cryptographic algorithms in-house
+instead of using algorithms that are commonly used within the
+industry. Some organizations assume that if attackers are not
+familiar with the logic functions and mathematics of their
+homegrown algorithms, this lack of understanding by the
+attacker will serve as a necessary level of security. But
+attackers are smart, clever, and motivated
+• The better approach is to use industry-recognized algorithms
+that have proven themselves to be strong and not depend
+upon the fact that an algorithm is proprietary, thus assuming
+that it is secure
+
+STO : Examples
+• Some network administrators will remap protocols on their
+firewalls so that HTTP is not coming into the environment over
+the well-known port 80, but instead 8080. The administrator
+assumes that an attacker will not figure out this remapping,
+but in reality a basic port scanner and protocol analyzer will
+easily detect this port remapping.
+• So don’t try to outsmart the bad guy with trickery; instead,
+practice security in a mature, solid approach
+
+Competent Security Programme
+• A security program is a framework made up of many entities:
+logical, administrative, and physical protection mechanisms,
+procedures, business processes, and people that all work together
+to provide a protection level for an environment
+• Each has an important place in the framework, and if one is missing
+or incomplete, the whole framework may be affected
+• The program should work in layers: one layer provides support for
+the layer above it and protection for the layer below it
+• Because a security program is a framework, organizations are free
+to plug in different types of technologies, methods, and procedures
+to accomplish the necessary protection level for their environment.
+
+Example
+• Let us take the mail server as an example. We need to list down the
+threats to the mail server
+• Power failures
+• Hardware failure
+• Virus attacks and Malicious code injection by intruders (Hacking)
+• Denial of Service (DoS attack)
+• Mail accidentally sent to a different recipient
+• Data corruption/Data loss
+• Unauthorized Access
+• Connectivity Issues
+• Natural Calamities
+
+..contd
+• Since we know that, Mathematically:
+Risk Value = Asset Value x Business Impact x Probability of occurrence of threat
+
+• Now Asset value is defined by looking at
+• Confidentiality
+• Integrity
+• Availability
+
+•
+
+Asset value = Confidentiality + Availability + Integrity
+
+..contd
+• Let us take the mail server of the organization.
+• Let us define a scale of 1-5 to record and assign a value to the owners and
+custodians views.
+QUESTION
+What if an intruder or another employee of a lower access level gets to
+read confidential top management mails?
+ANSWER
+It is very critical. Since the top management exchanges a lot of information
+through emails.
+• So the confidentiality value is 4 (FOUR)
+
+QUESTION
+• What if an intruder or another employee tries to modify the contents
+of the mail and the mail delivered is something different.
+• For ex: The CEO sends out a mail to the CFO to donate Rs.1,00,000 for
+a charity. Someone in between tampers the mail and changes the
+amount to Rs.7,00,000 and give his account number.
+ANSWER
+It is very critical.
+• So the integrity value is 4 (FOUR)
+
+QUESTION
+What happens if there is a hardware failure and the server is not available
+to the organization?
+ANSWER
+It is not very critical. My servers run on redundancy and I have a created a
+backup. If there is a hardware failure, the backup server will take over and
+there will not disruption to the services
+
+
+
+So the availability value is 2 (TWO)
+
+Asset Value
+
+• Since we know that
+
+Asset Value = Confidentiality + Availability + Integrity
+• So the Asset Value of Mail Server is
+
+Mail Server Value= 4 + 4 + 2 = 10
+
+Calculating BI
+• Risk Value = Asset Value x Business Impact x Probability of occurrence of
+threat
+• BIA is performed to analyze the impact on the business due to various
+unprecedented events or incidents
+• BIA is based on time. If there is a server crash, let's take the mail server as
+the example above, how much time can the organization go without an
+email server. This is derived by doing the business impact analysis
+• Scale 1-5
+
+• Since mail server is critical to the organization, we shall take 4 as the BIA
+value
+
+Calculating Probability of Occurrence
+• Risk Value = Asset Value x Business Impact x Probability of
+Occurrence of Threat
+• The probability of occurrence is required to understand the
+frequency at which such failures occur
+• This is based upon previous experiences and also looking at the
+current implementation.
+• The probability of occurrence is measured on a scale of 0.1 to 1
+
+Let us consider the probability of
+occurrence to be rated at medium i.e.
+0.4 for mail server
+
+Calculating RISK Value
+• Since, we have all the values now, so we will calculate the Risk value
+by summing them all
+
+Risk Value = AV x BI x P(T)
+• Risk Value= 10 x 4 x 0.4 = 16
+
+
