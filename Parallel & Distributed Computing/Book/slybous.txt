@@ -1,0 +1,45 @@
+Chapter 3:- 3.7: MULTITHREADED PROCESSORS.
+
+Chapter 4:- 
+
+4.1 A GENERALIZED STRUCTURE OF A PARALLEL COMPUTER
+
+4.2 CLASSIFICATION OF PARALLEL COMPUTERS
+
+4.2.1 Flynn’s Classification
+
+4.2.2 Coupling Between Processing Elements
+
+4.2.3 Classification Based on Mode of Accessing Memory
+
+4.2.4 Classification Based on Grain Size
+
+4.7 SHARED MEMORY PARALLEL COMPUTERS
+
+4.7.1 Synchronization of Processes in Shared Memory Computers
+
+4.7.2 Shared Bus Architecture
+
+4.7.3 Cache Coherence in Shared Bus Multiprocessor
+
+4.7.4 MESI Cache Coherence Protocol
+
+4.7.5 MOESI Protocol
+
+4.7.6 Memory Consistency Models
+
+4.7.7 Shared Memory Parallel Computer Using an Interconnection Network
+
+4.9 DISTRIBUTED SHARED MEMORY PARALLEL COMPUTERS
+
+4.9.1 Cache Coherence in DSM
+
+Chapter 11:-
+
+-Addition of numbers using Hypercube.
+
+11.3.1 Amdahl’s Law
+
+
+Examples:
+Pg: 119, 133, 141, 149, 166	
